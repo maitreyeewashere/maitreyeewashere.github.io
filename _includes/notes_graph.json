@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {% for note in site.notes %}
+      {"id": "{{ note.id }}", "label": "{{ note.title }}", "path": "{{ note.url }}"}
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "edges": [
+    {% for note in site.notes %}
+      {% for link in note.links %}
+        {"source": "{{ note.id }}", "target": "{{ link }}"}
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    {% endfor %}
+  ]
+}
