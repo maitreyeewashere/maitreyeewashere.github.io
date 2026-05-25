@@ -4,11 +4,13 @@
 
 <nav>
   {% assign pages = site.pages | where_exp: "p", "p.path contains '_pages'" %}
-  {% for page in pages %}
+{% for page in pages %}
+  {% unless page.nav_exclude %}
     <div>
       <a class="internal-link" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
     </div>
-  {% endfor %}
+  {% endunless %}
+{% endfor %}
 
     <div>
   <a href="{{ site.baseurl }}/assets/resume.pdf" target="_blank">Resume</a>
