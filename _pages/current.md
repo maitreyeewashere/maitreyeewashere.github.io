@@ -16,11 +16,11 @@ A running digest of what's been occupying my mind. Updated every month (approxim
 ## 🎬 Watching
 **[Chennai Express]** — watched it with my mom this week!
 
-{%
+<!--
 ## 🔗 Interesting corners of the internet
 - [link text](url) — one line on why
 - [link text](url) —
-%}
+-->
 
 ## 💭 Thinking about
 
