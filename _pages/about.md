@@ -12,7 +12,7 @@ I have always appreciated CS for its interdisciplinary potential, and over the y
 
 Over the past few months I have been working as a research intern at the Department of AI, IIT Kharagpur where I get to work with satellite data for agricultural geoinformatics. I want to explore these areas further, particularly weather systems and/or urban computing, and I look forward to doing that at graduate school. 
 
-Outside of my studies and research, I like to think I'm a bit of a jack of all trades. I like to draw, read, craft, cook, bake, play musical instruments and solve puzzles. That's a lot, so sometimes I also end up doing nothing at all 😅. I try to log my current interests [here](/current), which I aim to update every month or so, in case you're curious.
+Outside of my studies and research, I like to think I'm a bit of a jack of all trades. I like to draw, read, craft, cook, bake, play musical instruments and solve puzzles. That's a lot, so sometimes I also end up doing nothing at all 😅. I try to log my recent goings-on (fun experiences, latest interests, etc) [here](/blog), in case you're feeling nosy.
 
 
 
