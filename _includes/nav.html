@@ -1,8 +1,10 @@
-<div>
+
+<nav>
+
+    <div>
     <a class="internal-link" href="{{ site.baseurl }}/"><b>{{ site.title }}</b></a>
 </div>
 
-<nav>
   {% assign pages = site.pages | where_exp: "p", "p.path contains '_pages'" %}
 {% for page in pages %}
   {% unless page.nav_exclude %}
