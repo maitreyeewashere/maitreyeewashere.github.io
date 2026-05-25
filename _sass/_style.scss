@@ -113,6 +113,10 @@ nav {
   flex-wrap: wrap;
 }
 
+nav div {
+  display: inline;
+}
+
 #notes-entry-container {
   display: grid;
   grid-gap: 2em;
