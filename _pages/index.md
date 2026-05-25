@@ -8,7 +8,7 @@ permalink: /
 
 # Hello! 🌱🌞 I am Maitreyee.
 
-I am a **Computer Science and Engineering **undergraduate. I am interested in the intersection of deep learning and geospatial systems. I am currently a research intern at the Department of Artificial Intelligence, IIT Kharagpur where I get to work on geospatial informatics for agriculture.
+I am a **Computer Science and Engineering** undergraduate. I am interested in the intersection of deep learning and geospatial systems 🌏⛅. I am currently a research intern at the Department of Artificial Intelligence, IIT Kharagpur where I get to work on geospatial informatics for agriculture.
 
 I am excited to explore my research interests when I start graduate school soon.
 
