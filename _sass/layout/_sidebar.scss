@@ -7,8 +7,20 @@
    ========================================================================== */
 
 .sidebar {
+ 
+}
+
+.sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+
+
+    border-left: 4px solid #e85c41; // pick an accent color matching your palette
+  padding-left: 16px;
+
+   background-color: #fdf6f0; // warm off-white
+  border-radius: 12px;
+  padding: 20px 16px;
 
   @include clearfix();
   margin-bottom: 1em;
@@ -25,7 +37,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -36,7 +48,7 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: $sidebar-link-max-width;
+    max-width: 280px;
     padding-right: 0;
   }
 
@@ -155,7 +167,9 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 20px;
+     aspect-ratio: 1/1;
+     object-fit: cover;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -188,6 +202,9 @@
   }
 }
 .sidebar .author__name {
+    border-bottom: 3px solid #e85c41;
+  display: inline-block;
+  padding-bottom: 4px;
   font-family: $sans-serif;
   font-size: $type-size-5;
 }
@@ -316,6 +333,9 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+     transition: transform 0.15s ease;
+  &:hover {
+    transform: translateX(4px);
 
     &:hover {
       text-decoration: underline;
