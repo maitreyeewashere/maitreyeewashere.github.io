@@ -15,6 +15,3 @@ My research interests sit at the intersection of deep learning, modelling and at
 
 I love consuming and creating art in all its forms. At this point I have stopped trying to label my hobbies - I love doing things with my hands (drawing, crochet, baking, cooking, playing instruments). I also think that neat little binaries are overrated, and we should all keep blurring the boundaries from time to time :D 
 
-
-
-      **Jun 2026** — Manuscript submitted to *Remote Sensing of Environment*.
