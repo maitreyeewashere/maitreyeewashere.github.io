@@ -5,12 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-sidebar:
-  - title: "Latest"
-    text: |
-      **Jul 2026** — Starting MTech @ CAS, IIT Delhi :tada:
 
-      **Jun 2026** — Manuscript submitted to *Remote Sensing of Environment*.
 ---
 **Hello there!**
 
