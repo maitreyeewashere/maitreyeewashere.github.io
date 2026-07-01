@@ -18,8 +18,8 @@
    
   padding-left: 16px;
 
- background-color: #fff8f5;// warm off-white
-  border-radius: 12px;
+ background-color: #fff8f5;   // warm off-white
+  border-radius: 12px; 
   padding: 20px 16px;
 
   @include clearfix();
@@ -87,31 +87,37 @@
     width: $right-sidebar-width;
   }
 }
-
 .author__social-row {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 12px;
+  gap: 8px;
+  margin-top: 10px;
   padding-top: 10px;
   border-top: 1px solid var(--global-border-color);
 
   a {
     color: var(--global-text-color);
-    font-size: 1.2em;
-    transition: color 0.15s ease, transform 0.15s ease;
+    font-size: 0.95em;      // smaller icons
+    line-height: 1;
     text-decoration: none;
+    transition: color 0.15s ease, transform 0.15s ease;
 
     &:hover {
       color: #a20161;
       transform: translateY(-2px);
     }
   }
+
+  i {
+    font-size: 1.1em;       // controls actual icon size
+    width: 20px;
+    text-align: center;
+  }
 }
 
 .author__updates {
-  margin-top: 14px;
+  margin-top: 10px;
   padding-top: 10px;
   border-top: 1px solid var(--global-border-color);
 
@@ -120,16 +126,29 @@
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: #a20161;
+    margin-top: 0;
     margin-bottom: 6px;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1em;
   }
 
   p, li {
     font-size: $type-size-7;
     line-height: 1.5;
+    margin-bottom: 4px;
   }
 }
 
-/*
+
+.author__location,
+.author__employer {
+  font-size: $type-size-7;
+  margin: 2px 0;
+  color: var(--global-text-color-light);
+}/*
    Table of contents
    ========================================================================== */
 
@@ -217,7 +236,6 @@
     }
   }
 }
-
 .author__content {
   display: table-cell;
   vertical-align: top;
@@ -231,6 +249,11 @@
     padding-left: 0;
     padding-right: 0;
   }
+
+  p {
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
 }
 
 .author__name {
@@ -242,7 +265,7 @@
   }
 }
 .sidebar .author__name {
-    border-bottom: 3px solid #e85c41 ;
+    border-bottom: 3px solid #a20161; ;
   display: inline-block;
   padding-bottom: 4px;
   font-family: $sans-serif;
