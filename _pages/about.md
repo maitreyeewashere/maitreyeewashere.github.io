@@ -9,9 +9,8 @@ redirect_from:
 ---
 <span id="about"></span>
 
-I am Maitreyee. I am an incoming MTech student in Atmospheric and Oceanic Sciences and Technology at the Centre for Atmospheric Science, Indian Institute of Technology (IIT) Delhi. I did my undergrad in Computer Science and Engineering. I have always been drawn to CS for its interdisciplinary potential, and I have realised that I am most drawn to computationally representing real-world processes that are complex and chaotic. I enjoy connecting the things I learn about across disciplines! 
-
-My research interests sit at the intersection of deep learning, modelling and atmospheric and environmental dynamics, with a touch of human-computer interaction (HCI) because of my particular interest in underrepresented regional contexts.
+I am Maitreyee. I am an incoming MTech student in Atmospheric and Oceanic Sciences and Technology at the Centre for Atmospheric Science, Indian Institute of Technology (IIT) Delhi. I did my undergrad in Computer Science and Engineering. I have always been drawn to CS for its interdisciplinary potential, and I have realised that I am most drawn to computationally representing real-world processes that are complex and chaotic. 
+My research interests sit at the intersection of **deep learning, modelling and atmospheric and environmental dynamics**, with a touch of **human-computer interaction** (HCI) because of my particular interest in underrepresented regional contexts.
 
 I love consuming and creating art in all its forms - I love doing things with my hands (drawing, crochet, baking, cooking, playing instruments). I think learning and art are some of the things that make us human so we should all keep doing them :D 
 
