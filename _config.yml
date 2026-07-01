@@ -27,7 +27,7 @@ author:
   name             : "Maitreyee Sar"
   pronouns         : "she/her" 
   bio              : "Graduate Student - CS + Atmospheric Sciences"
-  location         : "Earth"
+  # location         : "Earth"
   employer         : "Indian Institute of Technology Delhi"
   uri              : # URL
   email            : "maitreyeesar@gmail.com" 
