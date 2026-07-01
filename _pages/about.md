@@ -19,7 +19,7 @@ I love consuming and creating art in all its forms. At this point I have stopped
 ## Publications
 
 **2026** 
-- [Predicting spatiotemporal delays in aviation networks using graph neural networks (GNNs)] (https://ieeexplore.ieee.org/document/11492880/). _Maitreyee Sar_, Chittaranjan Pradhan. International Conference on Computer, Electrical and Communications Engineering (ICCECE) Kolkata.
+- [Predicting spatiotemporal delays in aviation networks using graph neural networks (GNNs)](https://ieeexplore.ieee.org/document/11492880/). _Maitreyee Sar_, Chittaranjan Pradhan. International Conference on Computer, Electrical and Communications Engineering (ICCECE) Kolkata.
 
 **2024**
 - [Peel and Pool: The Math to Mandala Perfection. Tusita Sarkar, _Maitreyee Sar_, Partha Bhomwick](https://doi.org/10.1007/978-3-031-78125-4_24). International Conference on Pattern Recognition (ICPR) 2024
@@ -27,5 +27,5 @@ I love consuming and creating art in all its forms. At this point I have stopped
 <span id="contact"></span>
 ## Contact
 
-Feel free to reach me at [maitreyeesar@gmail.com](mailto:maitreyeesar@gmail.com) or find me on the links in the sidebar.
+If we have similar interests and you want to talk, feel free to reach me at [maitreyeesar@gmail.com](mailto:maitreyeesar@gmail.com) or find me on the links in the sidebar. You can find my other social links on the sidebar!
 
