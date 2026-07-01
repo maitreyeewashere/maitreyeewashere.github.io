@@ -1,29 +1,25 @@
 /* ==========================================================================
     AIR THEME - LIGHT VERSION
     ========================================================================== */
-
 /* Color codes used for the theme */
-$primary-color              : #0092ca;
+$primary-color              : #a20161;        // deep magenta
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
-$light-primary-color        : mix(#000, $primary-color, 50%);
-
-$background                 : #eeeeee;
+$light-primary-color        : mix(#fff, $primary-color, 60%);
+$background                 : #fff8f5;        // very light warm white
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
-$text                       : #222831;
-$link                       : #393e46;
+$text                       : #2e1a1a;        // warm dark brown
+$link                       : #a20161;        // magenta links
 $link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
-$footer                     : $primary-color;
-
+$link-light                 : mix(#fff, $link, 40%);
+$footer                     : #fcd5c0;        // pastel orange footer (not heavy blue)
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
+$info-color                 : #d49bbb;        // pastel pink for info
+$notice-color               : #c8849a;
 $success-color              : #62c462;
-$warning-color              : #f89406;
-
+$warning-color              : #ff9c59;        // pastel orange for warnings
 /* Other basic settings for the template */
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
@@ -33,15 +29,14 @@ $navicon-width              : 28px;
 $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
-
 /* Light theme for the site */
 :root {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
-    --global-border-color               : #{$light-primary-color};
+    --global-border-color               : #f0c4d8;        // soft pink border
     --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
+    --global-code-background-color      : #fff0f5;
     --global-code-text-color            : #{$darker-primary-color};
     --global-fig-caption-color          : #{$light-primary-color};
     --global-link-color                 : #{$link};
