@@ -13,6 +13,8 @@ redirect_from:
 
 My research sits at the intersection of **deep learning, modelling, and atmospheric dynamics**, with a particular interest in underrepresented regional contexts. Outside of research, I make things with my hands — drawing, crochet, baking, cooking, playing instruments. I think learning and art are some of the things that make us human, so we should all keep doing them :D
 
+[read more](https://maitreyeewashere.github.io/posts/2026/hatching)
+
 <span id="publications"></span>
 
 
