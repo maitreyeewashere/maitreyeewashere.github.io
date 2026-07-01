@@ -13,7 +13,7 @@ I am Maitreyee. I am an incoming MTech student in Atmospheric and Oceanic Scienc
 
 My research interests sit at the intersection of deep learning, modelling and atmospheric and environmental dynamics, with a touch of human-computer interaction (HCI) because of my particular interest in underrepresented regional contexts.
 
-I love consuming and creating art in all its forms - I love doing things with my hands (drawing, crochet, baking, cooking, playing instruments) :D 
+I love consuming and creating art in all its forms - I love doing things with my hands (drawing, crochet, baking, cooking, playing instruments). I think learning and art are some of the things that make us human so we should all keep doing them :D 
 
 <span id="publications"></span>
 ## Publications
