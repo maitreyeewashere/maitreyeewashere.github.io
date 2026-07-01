@@ -15,26 +15,23 @@ My research sits at the intersection of **deep learning, modelling, and atmosphe
 
 <span id="publications"></span>
 
-<div class="section-publications">
 
 ## Publications
 
-<div class="pub-year">2026</div>
+**2026**
 
 - [Predicting spatiotemporal delays in aviation networks using graph neural networks (GNNs)](https://ieeexplore.ieee.org/document/11492880/). _Maitreyee Sar_, Chittaranjan Pradhan. ICCECE, Kolkata.
 
-<div class="pub-year">2024</div>
+**2024**
 
 - [Peel and Pool: The Math to Mandala Perfection](https://doi.org/10.1007/978-3-031-78125-4_24). Tusita Sarkar, _Maitreyee Sar_, Partha Bhomwick. ICPR 2024.
 
-</div>
 
 <span id="contact"></span>
 
-<div class="section-contact">
 
 ## Contact
 
 If we have similar interests, I'd love to chat! Reach me at [maitreyeesar@gmail.com](mailto:maitreyeesar@gmail.com) or via the sidebar links.
 
-</div>
+
