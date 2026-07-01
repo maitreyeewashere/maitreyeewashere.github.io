@@ -17,7 +17,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - contact: "Contact"
+  - title: "Contact"
     url: /#contact
     
   - title: "CV"
