@@ -7,11 +7,25 @@ redirect_from:
   - /about.html
 
 ---
-**Hello there!**
+<span id="about"></span>
 
 I am Maitreyee. I am an incoming MTech student in Atmospheric and Oceanic Sciences and Technology at the Centre for Atmospheric Science, Indian Institute of Technology (IIT) Delhi. I did my undergrad in Computer Science and Engineering. I have always been drawn to CS for its interdisciplinary potential, and I have realised that I am most drawn to computationally representing real-world processes that are complex and chaotic. I enjoy connecting the things I learn about across disciplines!
 
 My research interests sit at the intersection of deep learning, modelling and atmospheric and environmental dynamics, with a touch of human-computer interaction (HCI) because of my particular interest in underrepresented regional contexts. For my bachelor's thesis, I worked as a research intern at the Department of AI, IIT Kharagpur with Dr Adway Mitra on evaluating foundation model embeddings against satellite and ground observational data in cross-region crop phenology mapping. 
 
 I love consuming and creating art in all its forms. At this point I have stopped trying to label my hobbies - I love doing things with my hands (drawing, crochet, baking, cooking, playing instruments). I also think that neat little binaries are overrated, and we should all keep blurring the boundaries from time to time :D 
+
+<span id="publications"></span>
+## Publications
+
+**2026** 
+- [Predicting spatiotemporal delays in aviation networks using graph neural networks (GNNs)] (https://ieeexplore.ieee.org/document/11492880/). _Maitreyee Sar_, Chittaranjan Pradhan. International Conference on Computer, Electrical and Communications Engineering (ICCECE) Kolkata.
+
+**2024**
+- [Peel and Pool: The Math to Mandala Perfection. Tusita Sarkar, _Maitreyee Sar_, Partha Bhomwick](https://doi.org/10.1007/978-3-031-78125-4_24). International Conference on Pattern Recognition (ICPR) 2024
+
+<span id="contact"></span>
+## Contact
+
+Feel free to reach me at [maitreyeesar@gmail.com](mailto:maitreyeesar@gmail.com) or find me on the links in the sidebar.
 
