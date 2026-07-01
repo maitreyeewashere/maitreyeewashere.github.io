@@ -19,14 +19,16 @@
   </div>
 
   <!-- LATEST UPDATES -->
-  {% if page.sidebar %}
-  <div class="author__updates">
-    {% for s in page.sidebar %}
-      {% if s.title %}<h4>{{ s.title }}</h4>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+ {% if site.data.news %}
+<div class="author__updates">
+  <h4>Latest Updates</h4>
+  <ul>
+    {% for item in site.data.news limit:5 %}
+      <li><strong>{{ item.date }}</strong> — {{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</li>
     {% endfor %}
-  </div>
-  {% endif %}
+  </ul>
+</div>
+{% endif %}
 
   <!-- SOCIAL ICONS ROW -->
   <div class="author__social-row">
