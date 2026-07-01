@@ -120,12 +120,13 @@
   margin-top: 10px;
   padding-top: 10px;
   border-top: 1px solid var(--global-border-color);
+   
 
   h4 {
     font-size: $type-size-6;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: #a20161;
+      color: var(--global-base-color);
     margin-top: 0;
     margin-bottom: 6px;
   }
@@ -266,7 +267,7 @@
   }
 }
 .sidebar .author__name {
-    border-bottom: 3px solid #a20161; ;
+   border-bottom: 3px solid var(--global-base-color);
   display: inline-block;
   padding-bottom: 4px;
   font-family: $sans-serif;
