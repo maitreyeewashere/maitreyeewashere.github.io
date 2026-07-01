@@ -1,0 +1,33 @@
+/* Section styling */
+.section-publications {
+  background: #fff0f5;
+  border-radius: 12px;
+  padding: 24px 28px;
+  margin: 2em 0;
+}
+
+.section-contact {
+  background: #fff5ee;
+  border-radius: 12px;
+  padding: 24px 28px;
+  margin: 2em 0;
+}
+
+.pub-year {
+  font-size: 0.75em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #a20161;
+  border-bottom: 2px solid #f0c4d8;
+  padding-bottom: 4px;
+  margin-bottom: 12px;
+}
+
+.intro-lead {
+  font-size: 1.15em;
+  line-height: 1.7;
+  border-left: 4px solid #d49bbb;
+  padding-left: 16px;
+  margin-bottom: 1.5em;
+}
