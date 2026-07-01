@@ -88,6 +88,46 @@
   }
 }
 
+.author__social-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid var(--global-border-color);
+
+  a {
+    color: var(--global-text-color);
+    font-size: 1.2em;
+    transition: color 0.15s ease, transform 0.15s ease;
+    text-decoration: none;
+
+    &:hover {
+      color: #a20161;
+      transform: translateY(-2px);
+    }
+  }
+}
+
+.author__updates {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid var(--global-border-color);
+
+  h4 {
+    font-size: $type-size-6;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #a20161;
+    margin-bottom: 6px;
+  }
+
+  p, li {
+    font-size: $type-size-7;
+    line-height: 1.5;
+  }
+}
 
 /*
    Table of contents
