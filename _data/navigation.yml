@@ -21,7 +21,7 @@ main:
     url: /#contact
     
   - title: "CV"
-    url: /files/cv.pdf
+    url: /cv.pdf
     
   # - title: "CV"
   #   url: /cv-json/
