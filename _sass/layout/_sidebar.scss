@@ -104,7 +104,7 @@
     transition: color 0.15s ease, transform 0.15s ease;
 
     &:hover {
-      color: #a20161;
+      color: var(--global-base-color);
       transform: translateY(-2px);
     }
   }
