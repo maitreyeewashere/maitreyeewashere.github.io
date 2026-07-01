@@ -26,5 +26,5 @@ I love consuming and creating art in all its forms - I love doing things with my
 <span id="contact"></span>
 ## Contact
 
-If we have similar interests and you want to talk, feel free to reach me at [maitreyeesar@gmail.com](mailto:maitreyeesar@gmail.com) or find me on the links in the sidebar. You can find my other social links on the sidebar!
+If we have similar interests, I'd love to chat! Feel free to reach me at [maitreyeesar@gmail.com](mailto:maitreyeesar@gmail.com) or find me on the links in the sidebar. You can find my other social links on the sidebar!
 
