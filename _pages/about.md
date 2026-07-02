@@ -9,7 +9,7 @@ redirect_from:
 
 <span id="about"></span>
 
-<p class="intro-lead">I'm Maitreyee. I am an incoming MTech student at the Centre for Atmospheric Science, IIT Delhi, with a CS undergrad and a soft spot for complex, chaotic real-world systems.</p>
+<p class="intro-lead">I'm Maitreyee. I am an incoming student of MTech in Atmospheric and Oceanic Science and Technology at the Centre for Atmospheric Science, IIT Delhi. I completed my undergraduate in Computer Science and Engineering and I want to use computational tools to understand the underlying patterns in complex, chaotic real-world systems.</p>
 
 My research sits at the intersection of **deep learning, modelling, and atmospheric dynamics**, with a particular interest in underrepresented regional contexts. Outside of research, I make things with my hands — drawing, crochet, baking, cooking, playing instruments. I think learning and art are some of the things that make us human, so we should all keep doing them :D
 
