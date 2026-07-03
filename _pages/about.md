@@ -26,7 +26,7 @@ My research sits at the intersection of **deep learning, modelling, and atmosphe
 
 **2024**
 
-- [Peel and Pool: The Math to Mandala Perfection](https://doi.org/10.1007/978-3-031-78125-4_24). Tusita Sarkar, _Maitreyee Sar_, Partha Bhomwick. ICPR 2024.
+- [Peel and Pool: The Math to Mandala Perfection](https://doi.org/10.1007/978-3-031-78125-4_24). Tusita Sarkar, _Maitreyee Sar_, Partha Bhowmick. ICPR 2024.
 
 <span id="projects"></span>
 
